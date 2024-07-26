@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d///d3d3d3d3///3//93d3f///f//3d3d/////93d3d3d3f//3d3d3d3d///d3d3d/////93d3d3///3//93d3f///f//3d3d///d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "creeper"
+    },
+    "image2": {
+        "data": "hwQVABQAAAAAAAAAAMwMAAAAAAAAAAAAYGbGAAAAAAAAAAAAYGZmBgAAAAAAAADAzHdnDAAAAAAAAGBmZmZ2DAAAAAAAYMbMfHdnBwAAAAAAYMbMfHdnBwAAAAAAYHbHbGZmxswAAAAAZmZ2Z3fHdncPAADMdWfGfGZmxszuAADMdWfGfGZmxszuAADMdWfGfGZmxszuAADMdWdmdsxsZmb+AAAAZ3Z3d3dnd3cPAAAAwHzHfHdnZ2YAAAAAwHzHfHdnZ2YAAAAAYGZmdndnBwAAAAAAAGBmZmZ2BwAAAAAAAABgdnfHBgAAAAAAAAAAYGZmBgAAAAAAAAAAYGZmAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tree"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAREREBAAAAHhEREQEAAAAeERERAQAAAB4REREBAAAAEBEREQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "drink"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
